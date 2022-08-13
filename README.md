@@ -1,0 +1,3 @@
+# Russian-Tweets-Data-Analysis
+Russian Troll Tweets Analysis This is my attempt at putting to use my recent learnings in text analytics. I have never worked with text data before so it should be exciting.  What comes to mind when we think of tweet data is to analyze -  What are the most trending hashtags? When were people most tweeting? Are tweets spiking around the time of major events? - Common sense tells me Yes Which users mention which users? Can a graph be made to see which are the most mentioned users? Can some clusters be made for users tweeting on similar topics? Can we predict users from their tweet contents!
+Dataset link - https://www.kaggle.com/fivethirtyeight/russian-troll-tweets
